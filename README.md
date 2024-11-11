@@ -2,7 +2,9 @@
 
 A simple gravitational physics simulator built with openFrameworks, demonstrating basic orbital mechanics and particle systems.
 
-##Author: Youssuf Hichri
+## Author 
+
+Youssuf Hichri
 
 ## Overview
 
