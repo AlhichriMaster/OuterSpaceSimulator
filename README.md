@@ -2,6 +2,8 @@
 
 A simple gravitational physics simulator built with openFrameworks, demonstrating basic orbital mechanics and particle systems.
 
+##Author: Youssuf Hichri
+
 ## Overview
 
 This project creates a space-like environment with a central massive body (simulating a black hole or star), three orbiting planets, and a field of asteroids. All bodies interact through gravitational forces, creating a dynamic solar system simulation.
